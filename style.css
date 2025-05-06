@@ -36,18 +36,6 @@ nav {
     margin-left: 2rem;
 }
 
-.hero {
-    background: url('images/hero-bg.jpg') center/cover;
-    height: 60vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    color: white;
-    text-align: center;
-    padding: 2rem;
-}
-
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
